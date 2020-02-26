@@ -7,7 +7,7 @@
 
 # Training
 Sample data is taken from http://peeter.eki.ee:5000/valence/paragraphsquery/
-1. ./main/jamspell train alphabet_et.txt postimees.txt estonski.bin
+1. ```./main/jamspell train alphabet_et.txt postimees.txt estonski.bin```
 
 # Using
 ```
